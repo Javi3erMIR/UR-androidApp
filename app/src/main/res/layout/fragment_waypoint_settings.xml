@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WaypointSettings"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txt_ti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Waypoint Settings"
+        android:textSize="28dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="18dp">
+
+        <Button
+            android:id="@+id/btn_setTcp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set Waypoint"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

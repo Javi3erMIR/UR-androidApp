@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Waypoint"
+        android:id="@+id/Waypoint_node"
+        />
+    <item
+        android:title="Wait"
+        android:id="@+id/Wait_node"
+        />
+    <item
+        android:title="Set"
+        android:id="@+id/Set_node"
+        />
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item_play"
+        android:title=""
+        android:icon="@drawable/play_sequence_foreground" />
+
+    <item android:id="@+id/item_stop"
+        android:title=""
+        android:icon="@drawable/stop_sequence_foreground" />
+</menu>

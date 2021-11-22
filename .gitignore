@@ -1,0 +1,9 @@
+*.iml
+.gradle/
+.idea/
+*.png
+*.jpg
+.settings/
+app/build/
+.project
+gradlew.bat
